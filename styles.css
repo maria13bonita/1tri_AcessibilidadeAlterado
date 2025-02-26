@@ -29,7 +29,7 @@ section {
 }
 
 .inicio-fundo {
-    background-image: url('img/fundo-musica.png');
+    background-image: url('img/fundoc.png');
     /* Substitua pelo caminho da sua imagem */
     background-size: cover;
     background-position: right;
@@ -112,7 +112,7 @@ h2 {
 }
 
 #contato {
-    background-image: url('img/fundo-musica.jpg');
+    background-image: url('img/fundoc.png');
     background-size: cover;
     padding: 4rem 0;
     /* Espaçamento interno para a seção de contato */
